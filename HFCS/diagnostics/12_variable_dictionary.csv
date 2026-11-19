@@ -1,0 +1,1109 @@
+﻿wave,table,variable,variable_label,parquet_dtypes,imputations_available,review_label
+2010,d,da1000,"DA1000 Total real assets 1  (incl. business wealth, vehicles and valuables)",double,5,False
+2014,d,da1000,"DA1000 Total real assets 1  (incl. business wealth, vehicles and valuables)",double,5,False
+2017,d,da1000,"DA1000 Total real assets 1  (incl. business wealth, vehicles and valuables)",double,5,False
+2021,d,da1000,"DA1000 Total real assets 1  (incl. business wealth, vehicles and valuables)",double,5,False
+2023,d,da1000,"DA1000 Total real assets 1  (incl. business wealth, vehicles and valuables)",double,5,False
+2010,d,da1000i,DA1000i Has real assets,int8,5,False
+2014,d,da1000i,DA1000i Has real assets,int8,5,False
+2017,d,da1000i,DA1000i Has real assets,int8,5,False
+2021,d,da1000i,DA1000i Has real assets,int8,5,False
+2023,d,da1000i,DA1000i Has real assets,int8,5,False
+2010,d,da1000sh,DA1000SH Real assets as share of gross wealth,double,5,False
+2014,d,da1000sh,DA1000SH Real assets as share of gross wealth,double,5,False
+2017,d,da1000sh,DA1000SH Real assets as share of gross wealth,double,5,False
+2021,d,da1000sh,DA1000SH Real assets as share of gross wealth,double,5,False
+2023,d,da1000sh,DA1000SH Real assets as share of gross wealth,double,5,False
+2010,d,da1110,DA1110 Value of household's main residence,double,5,False
+2014,d,da1110,DA1110 Value of household's main residence,double,5,False
+2017,d,da1110,DA1110 Value of household's main residence,double,5,False
+2021,d,da1110,DA1110 Value of household's main residence,double,5,False
+2023,d,da1110,DA1110 Value of household's main residence,double,5,False
+2010,d,da1110i,DA1110i Has HMR,int8,5,False
+2014,d,da1110i,DA1110i Has HMR,int8,5,False
+2017,d,da1110i,DA1110i Has HMR,int8,5,False
+2021,d,da1110i,DA1110i Has HMR,int8,5,False
+2023,d,da1110i,DA1110i Has HMR,int8,5,False
+2010,d,da1120,DA1120 Value of other real estate property (all),double,5,False
+2014,d,da1120,DA1120 Value of other real estate property (all),double,5,False
+2017,d,da1120,DA1120 Value of other real estate property (all),double,5,False
+2021,d,da1120,DA1120 Value of other real estate property (all),double,5,False
+2023,d,da1120,DA1120 Value of other real estate property (all),double,5,False
+2010,d,da1120i,DA1120i Has other real estate property,int8,5,False
+2014,d,da1120i,DA1120i Has other real estate property,int8,5,False
+2017,d,da1120i,DA1120i Has other real estate property,int8,5,False
+2021,d,da1120i,DA1120i Has other real estate property,int8,5,False
+2023,d,da1120i,DA1120i Has other real estate property,int8,5,False
+2010,d,da1121,DA1121 Value of other real estate property used for business activities,double,5,False
+2014,d,da1121,DA1121 Value of other real estate property used for business activities,double,5,False
+2017,d,da1121,DA1121 Value of other real estate property used for business activities,double,5,False
+2021,d,da1121,DA1121 Value of other real estate property used for business activities,double,5,False
+2023,d,da1121,DA1121 Value of other real estate property used for business activities,double,5,False
+2010,d,da1121i,DA1121i Has other real estate property for business,int64,5,False
+2014,d,da1121i,DA1121i Has other real estate property for business,int8,5,False
+2017,d,da1121i,DA1121i Has other real estate property for business,int8,5,False
+2021,d,da1121i,DA1121i Has other real estate property for business,int8,5,False
+2023,d,da1121i,DA1121i Has other real estate property for business,int8,5,False
+2010,d,da1122,DA1122 Value of other real estate property not for business activities,double,5,False
+2014,d,da1122,DA1122 Value of other real estate property not for business activities,double,5,False
+2017,d,da1122,DA1122 Value of other real estate property not for business activities,double,5,False
+2021,d,da1122,DA1122 Value of other real estate property not for business activities,double,5,False
+2023,d,da1122,DA1122 Value of other real estate property not for business activities,double,5,False
+2010,d,da1122i,DA1122i Has other real estate property not for business,int64,5,False
+2014,d,da1122i,DA1122i Has other real estate property not for business,int8,5,False
+2017,d,da1122i,DA1122i Has other real estate property not for business,int8,5,False
+2021,d,da1122i,DA1122i Has other real estate property not for business,int8,5,False
+2023,d,da1122i,DA1122i Has other real estate property not for business,int8,5,False
+2010,d,da1130,DA1130 Value of household's vehicles,double,5,False
+2014,d,da1130,DA1130 Value of household's vehicles,double,5,False
+2017,d,da1130,DA1130 Value of household's vehicles,double,5,False
+2021,d,da1130,DA1130 Value of household's vehicles,double,5,False
+2023,d,da1130,DA1130 Value of household's vehicles,double,5,False
+2010,d,da1130i,DA1130i Has vehicles,int64,5,False
+2014,d,da1130i,DA1130i Has vehicles,int8,5,False
+2017,d,da1130i,DA1130i Has vehicles,int8,5,False
+2021,d,da1130i,DA1130i Has vehicles,int8,5,False
+2023,d,da1130i,DA1130i Has vehicles,int8,5,False
+2010,d,da1131,DA1131 Valuables,double,5,False
+2014,d,da1131,DA1131 Valuables,double,5,False
+2017,d,da1131,DA1131 Valuables,double,5,False
+2021,d,da1131,DA1131 Valuables,double,5,False
+2023,d,da1131,DA1131 Valuables,double,5,False
+2010,d,da1131i,DA1131i Has valuables,int64,5,False
+2014,d,da1131i,DA1131i Has valuables,int64,5,False
+2017,d,da1131i,DA1131i Has valuables,int8,5,False
+2021,d,da1131i,DA1131i Has valuables,int8,5,False
+2023,d,da1131i,DA1131i Has valuables,int8,5,False
+2010,d,da1140,DA1140 Value of self-employment businesses,double,5,False
+2014,d,da1140,DA1140 Value of self-employment businesses,double,5,False
+2017,d,da1140,DA1140 Value of self-employment businesses,double,5,False
+2021,d,da1140,DA1140 Value of self-employment businesses,double,5,False
+2023,d,da1140,DA1140 Value of self-employment businesses,double,5,False
+2010,d,da1140i,DA1140i Has self-employment business wealth,int8,5,False
+2014,d,da1140i,DA1140i Has self-employment business wealth,int8,5,False
+2017,d,da1140i,DA1140i Has self-employment business wealth,int8,5,False
+2021,d,da1140i,DA1140i Has self-employment business wealth,int8,5,False
+2023,d,da1140i,DA1140i Has self-employment business wealth,int8,5,False
+2010,d,da1200,DA1200 Business wealth,double,5,False
+2014,d,da1200,DA1200 Business wealth,double,5,False
+2017,d,da1200,DA1200 Business wealth,double,5,False
+2021,d,da1200,DA1200 Business wealth,double,5,False
+2023,d,da1200,DA1200 Business wealth,double,5,False
+2010,d,da1200i,DA1200i Has business wealth,int8,5,False
+2014,d,da1200i,DA1200i Has business wealth,int8,5,False
+2017,d,da1200i,DA1200i Has business wealth,int8,5,False
+2021,d,da1200i,DA1200i Has business wealth,int8,5,False
+2023,d,da1200i,DA1200i Has business wealth,int8,5,False
+2010,d,da1400,DA1400 Real estate wealth,double,5,False
+2014,d,da1400,DA1400 Real estate wealth,double,5,False
+2017,d,da1400,DA1400 Real estate wealth,double,5,False
+2021,d,da1400,DA1400 Real estate wealth,double,5,False
+2023,d,da1400,DA1400 Real estate wealth,double,5,False
+2010,d,da1400i,DA1400i Has real estate wealth,int8,5,False
+2014,d,da1400i,DA1400i Has real estate wealth,int8,5,False
+2017,d,da1400i,DA1400i Has real estate wealth,int8,5,False
+2021,d,da1400i,DA1400i Has real estate wealth,int8,5,False
+2023,d,da1400i,DA1400i Has real estate wealth,int8,5,False
+2010,d,da2100,DA2100 Total financial assets 1 (excl. public and occupational pension plans),double,5,False
+2014,d,da2100,DA2100 Total financial assets 1 (excl. public and occupational pension plans),double,5,False
+2017,d,da2100,DA2100 Total financial assets 1 (excl. public and occupational pension plans),double,5,False
+2021,d,da2100,DA2100 Total financial assets 1 (excl. public and occupational pension plans),double,5,False
+2023,d,da2100,DA2100 Total financial assets 1 (excl. public and occupational pension plans),double,5,False
+2010,d,da2100i,DA2100i Has financial assets,int8,5,False
+2014,d,da2100i,DA2100i Has financial assets,int8,5,False
+2017,d,da2100i,DA2100i Has financial assets,int8,5,False
+2021,d,da2100i,DA2100i Has financial assets,int8,5,False
+2023,d,da2100i,DA2100i Has financial assets,int8,5,False
+2010,d,da2100sh,DA2100SH Financial assets as share of gross wealth,double,5,False
+2014,d,da2100sh,DA2100SH Financial assets as share of gross wealth,double,5,False
+2017,d,da2100sh,DA2100SH Financial assets as share of gross wealth,double,5,False
+2021,d,da2100sh,DA2100SH Financial assets as share of gross wealth,double,5,False
+2023,d,da2100sh,DA2100SH Financial assets as share of gross wealth,double,5,False
+2010,d,da2101,DA2101 Deposits,double,5,False
+2014,d,da2101,DA2101 Deposits,double,5,False
+2017,d,da2101,DA2101 Deposits,double,5,False
+2021,d,da2101,DA2101 Deposits,double,5,False
+2023,d,da2101,DA2101 Deposits,double,5,False
+2010,d,da21011,DA21011 Deposits: sight accounts,double,5,False
+2014,d,da21011,DA21011 Deposits: sight accounts,double,5,False
+2017,d,da21011,DA21011 Deposits: sight accounts,double,5,False
+2021,d,da21011,DA21011 Deposits: sight accounts,double,5,False
+2023,d,da21011,DA21011 Deposits: sight accounts,double,5,False
+2010,d,da21011i,DA21011i Has sight accounts,int8,5,False
+2014,d,da21011i,DA21011i Has sight accounts,int8,5,False
+2017,d,da21011i,DA21011i Has sight accounts,int8,5,False
+2021,d,da21011i,DA21011i Has sight accounts,int8,5,False
+2023,d,da21011i,DA21011i Has sight accounts,int8,5,False
+2010,d,da21012,DA21012 Deposits: saving accounts,double,5,False
+2014,d,da21012,DA21012 Deposits: saving accounts,double,5,False
+2017,d,da21012,DA21012 Deposits: saving accounts,double,5,False
+2021,d,da21012,DA21012 Deposits: saving accounts,double,5,False
+2023,d,da21012,DA21012 Deposits: saving accounts,double,5,False
+2010,d,da21012i,DA21012i Has saving accounts,int64,5,False
+2014,d,da21012i,DA21012i Has saving accounts,int8,5,False
+2017,d,da21012i,DA21012i Has saving accounts,int8,5,False
+2021,d,da21012i,DA21012i Has saving accounts,int8,5,False
+2023,d,da21012i,DA21012i Has saving accounts,int8,5,False
+2010,d,da2101i,DA2101i Has deposits,int8,5,False
+2014,d,da2101i,DA2101i Has deposits,int8,5,False
+2017,d,da2101i,DA2101i Has deposits,int8,5,False
+2021,d,da2101i,DA2101i Has deposits,int8,5,False
+2023,d,da2101i,DA2101i Has deposits,int8,5,False
+2010,d,da2102,"DA2102 Mutual funds, total",double,5,False
+2014,d,da2102,"DA2102 Mutual funds, total",double,5,False
+2017,d,da2102,"DA2102 Mutual funds, total",double,5,False
+2021,d,da2102,"DA2102 Mutual funds, total",double,5,False
+2023,d,da2102,"DA2102 Mutual funds, total",double,5,False
+2010,d,da2102i,DA2102i Has mutual funds,int8,5,False
+2014,d,da2102i,DA2102i Has mutual funds,int8,5,False
+2017,d,da2102i,DA2102i Has mutual funds,int8,5,False
+2021,d,da2102i,DA2102i Has mutual funds,int8,5,False
+2023,d,da2102i,DA2102i Has mutual funds,int8,5,False
+2010,d,da2103,DA2103 Bonds,double,5,False
+2014,d,da2103,DA2103 Bonds,double,5,False
+2017,d,da2103,DA2103 Bonds,double,5,False
+2021,d,da2103,DA2103 Bonds,double,5,False
+2023,d,da2103,DA2103 Bonds,double,5,False
+2010,d,da2103i,DA2103i Has bonds,int8,5,False
+2014,d,da2103i,DA2103i Has bonds,int8,5,False
+2017,d,da2103i,DA2103i Has bonds,int8,5,False
+2021,d,da2103i,DA2103i Has bonds,int8,5,False
+2023,d,da2103i,DA2103i Has bonds,int8,5,False
+2010,d,da2104,DA2104 Value of non self-employment private business,double,5,False
+2014,d,da2104,DA2104 Value of non self-employment private business,double,5,False
+2017,d,da2104,DA2104 Value of non self-employment private business,double,5,False
+2021,d,da2104,DA2104 Value of non self-employment private business,double,5,False
+2023,d,da2104,DA2104 Value of non self-employment private business,double,5,False
+2010,d,da2104i,DA2104i Has non-SE private business wealth,int64,5,False
+2014,d,da2104i,DA2104i Has non-SE private business wealth,int8,5,False
+2017,d,da2104i,DA2104i Has non-SE private business wealth,int8,5,False
+2021,d,da2104i,DA2104i Has non-SE private business wealth,int8,5,False
+2023,d,da2104i,DA2104i Has non-SE private business wealth,int8,5,False
+2010,d,da2105,"DA2105 Shares, publicly traded",double,5,False
+2014,d,da2105,"DA2105 Shares, publicly traded",double,5,False
+2017,d,da2105,"DA2105 Shares, publicly traded",double,5,False
+2021,d,da2105,"DA2105 Shares, publicly traded",double,5,False
+2023,d,da2105,"DA2105 Shares, publicly traded",double,5,False
+2010,d,da2105i,DA2105i Has shares (publicly traded),int8,5,False
+2014,d,da2105i,DA2105i Has shares (publicly traded),int8,5,False
+2017,d,da2105i,DA2105i Has shares (publicly traded),int8,5,False
+2021,d,da2105i,DA2105i Has shares (publicly traded),int8,5,False
+2023,d,da2105i,DA2105i Has shares (publicly traded),int8,5,False
+2010,d,da2106,DA2106 Managed accounts,double,5,False
+2014,d,da2106,DA2106 Managed accounts,double,5,False
+2017,d,da2106,DA2106 Managed accounts,double,5,False
+2021,d,da2106,DA2106 Managed accounts,double,5,False
+2023,d,da2106,DA2106 Managed accounts,double,5,False
+2010,d,da2106i,DA2106i Has managed accounts,int64,5,False
+2014,d,da2106i,DA2106i Has managed accounts,int64,5,False
+2017,d,da2106i,DA2106i Has managed accounts,int8,5,False
+2021,d,da2106i,DA2106i Has managed accounts,int8,5,False
+2023,d,da2106i,DA2106i Has managed accounts,int8,5,False
+2010,d,da2107,DA2107 Money owed to households,double,5,False
+2014,d,da2107,DA2107 Money owed to households,double,5,False
+2017,d,da2107,DA2107 Money owed to households,double,5,False
+2021,d,da2107,DA2107 Money owed to households,double,5,False
+2023,d,da2107,DA2107 Money owed to households,double,5,False
+2010,d,da2107i,DA2107i Has money owed to household,int64,5,False
+2014,d,da2107i,DA2107i Has money owed to household,int64,5,False
+2017,d,da2107i,DA2107i Has money owed to household,int8,5,False
+2021,d,da2107i,DA2107i Has money owed to household,int8,5,False
+2023,d,da2107i,DA2107i Has money owed to household,int8,5,False
+2010,d,da2108,DA2108 Other assets,double,5,False
+2014,d,da2108,DA2108 Other assets,double,5,False
+2017,d,da2108,DA2108 Other assets,double,5,False
+2021,d,da2108,DA2108 Other assets,double,5,False
+2023,d,da2108,DA2108 Other assets,double,5,False
+2010,d,da2108i,DA2108i Has other assets,int8,5,False
+2014,d,da2108i,DA2108i Has other assets,int8,5,False
+2017,d,da2108i,DA2108i Has other assets,int8,5,False
+2021,d,da2108i,DA2108i Has other assets,int8,5,False
+2023,d,da2108i,DA2108i Has other assets,int8,5,False
+2010,d,da2109,DA2109 Voluntary pension/whole life insurance,double,5,False
+2014,d,da2109,DA2109 Voluntary pension/whole life insurance,double,5,False
+2017,d,da2109,DA2109 Voluntary pension/whole life insurance,double,5,False
+2021,d,da2109,DA2109 Voluntary pension/whole life insurance,double,5,False
+2023,d,da2109,DA2109 Voluntary pension/whole life insurance,double,5,False
+2010,d,da2109i,DA2109i Has voluntary pensions/whole life insurance,int8,5,False
+2014,d,da2109i,DA2109i Has voluntary pensions/whole life insurance,int8,5,False
+2017,d,da2109i,DA2109i Has voluntary pensions/whole life insurance,int8,5,False
+2021,d,da2109i,DA2109i Has voluntary pensions/whole life insurance,int8,5,False
+2023,d,da2109i,DA2109i Has voluntary pensions/whole life insurance,int8,5,False
+2010,d,da2199,DA2199 Other types of financial assets,double,5,False
+2014,d,da2199,DA2199 Other types of financial assets,double,5,False
+2017,d,da2199,DA2199 Other types of financial assets,double,5,False
+2021,d,da2199,DA2199 Other types of financial assets,double,5,False
+2023,d,da2199,DA2199 Other types of financial assets,double,5,False
+2010,d,da2199i,DA2199i Has other types of financial assets,int8,5,False
+2014,d,da2199i,DA2199i Has other types of financial assets,int8,5,False
+2017,d,da2199i,DA2199i Has other types of financial assets,int8,5,False
+2021,d,da2199i,DA2199i Has other types of financial assets,int8,5,False
+2023,d,da2199i,DA2199i Has other types of financial assets,int8,5,False
+2010,d,da3001,"DA3001 Total assets, excl. public and occupational pension plans",double,5,False
+2014,d,da3001,"DA3001 Total assets, excl. public and occupational pension plans",double,5,False
+2017,d,da3001,"DA3001 Total assets, excl. public and occupational pension plans",double,5,False
+2021,d,da3001,"DA3001 Total assets, excl. public and occupational pension plans",double,5,False
+2023,d,da3001,"DA3001 Total assets, excl. public and occupational pension plans",double,5,False
+2010,d,datop10,DATOP10 Country top 10% gross wealth,int8,5,True
+2014,d,datop10,DATOP10 Country top 10% gross wealth,int8,5,True
+2017,d,datop10,DATOP10 Country top 10% gross wealth,int8,5,True
+2021,d,datop10,DATOP10 Country top 10% gross wealth,int8,5,True
+2023,d,datop10,"DATOP10 Percentiles, gross wealth, among households",int8,5,True
+2010,d,datop10ea,DATOP10EA EA top 10% gross wealth,int64,5,True
+2014,d,datop10ea,DATOP10EA EA top 10% gross wealth,int8,5,True
+2017,d,datop10ea,DATOP10EA EA top 10% gross wealth,int64,5,True
+2021,d,datop10ea,DATOP10EA EA top 10% gross wealth,int64,5,True
+2023,d,datop10ea,"DATOP10EA EA percentiles, gross wealth, among households",int64,5,True
+2010,d,dh0001,DH0001 Number of household members,int8,5,False
+2014,d,dh0001,DH0001 Number of household members,int8,5,False
+2017,d,dh0001,DH0001 Number of household members,int8,5,False
+2021,d,dh0001,DH0001 Number of household members,int8,5,False
+2023,d,dh0001,DH0001 Number of household members,int8,5,False
+2010,d,dh0002,DH0002 Consumption units (OECD modified),double,5,False
+2014,d,dh0002,DH0002 Consumption units (OECD modified),double,5,False
+2017,d,dh0002,DH0002 Consumption units (OECD modified),double,5,False
+2021,d,dh0002,DH0002 Consumption units (OECD modified),double,5,False
+2023,d,dh0002,DH0002 Consumption units (OECD modified),double,5,False
+2010,d,dh0003,DH0003 Number of economically active members in household,int8,5,False
+2014,d,dh0003,DH0003 Number of economically active members in household,int8,5,False
+2017,d,dh0003,DH0003 Number of economically active members in household,int8,5,False
+2021,d,dh0003,DH0003 Number of economically active members in household,int8,5,False
+2023,d,dh0003,DH0003 Number of economically active members in household,int8,5,False
+2010,d,dh0004,DH0004 Number of household members in employment,int8,5,False
+2014,d,dh0004,DH0004 Number of household members in employment,int8,5,False
+2017,d,dh0004,DH0004 Number of household members in employment,int8,5,False
+2021,d,dh0004,DH0004 Number of household members in employment,int8,5,False
+2023,d,dh0004,DH0004 Number of household members in employment,int8,5,False
+2010,d,dh0006,DH0006 Number of household members 16+,int8,5,False
+2014,d,dh0006,DH0006 Number of household members 16+,int8,5,False
+2017,d,dh0006,DH0006 Number of household members 16+,int8,5,False
+2021,d,dh0006,DH0006 Number of household members 16+,int8,5,False
+2023,d,dh0006,DH0006 Number of household members 16+,int8,5,False
+2010,d,dh14p,DH14P Number of household members aged 14+,int8,5,False
+2014,d,dh14p,DH14P Number of household members aged 14+,int8,5,False
+2017,d,dh14p,DH14P Number of household members aged 14+,int8,5,False
+2021,d,dh14p,DH14P Number of household members aged 14+,int8,5,False
+2023,d,dh14p,DH14P Number of household members aged 14+,int8,5,False
+2010,d,dhaged65plus,DHaged65plus Household members aged 65 or more,int8,5,False
+2014,d,dhaged65plus,DHaged65plus Household members aged 65 or more,int8,5,False
+2017,d,dhaged65plus,DHaged65plus Household members aged 65 or more,int8,5,False
+2021,d,dhaged65plus,DHaged65plus Household members aged 65 or more,int8,5,False
+2023,d,dhaged65plus,DHaged65plus Household members aged 65 or more,int8,5,False
+2010,d,dhageh1,DHAGEH1 Age of reference person,int16,5,False
+2014,d,dhageh1,DHAGEH1 Age of reference person,int64,5,False
+2017,d,dhageh1,DHAGEH1 Age of reference person,int64,5,False
+2021,d,dhageh1,DHAGEH1 Age of reference person,int64,5,False
+2023,d,dhageh1,DHAGEH1 Age of reference person,int64,5,False
+2010,d,dhageh1b,DHAGEH1B Age of reference person - brackets,int8,5,False
+2014,d,dhageh1b,DHAGEH1B Age of reference person - brackets,int64,5,False
+2017,d,dhageh1b,DHAGEH1B Age of reference person - brackets,int64,5,False
+2021,d,dhageh1b,DHAGEH1B Age of reference person - brackets,int8,5,False
+2023,d,dhageh1b,DHAGEH1B Age of reference person - brackets,int8,5,False
+2010,d,dhaq01,"DHAQ01 Country quintile, gross wealth, among households",int8,5,False
+2014,d,dhaq01,"DHAQ01 Country quintile, gross wealth, among households",int8,5,False
+2017,d,dhaq01,"DHAQ01 Country quintile, gross wealth, among households",int8,5,False
+2021,d,dhaq01,"DHAQ01 Country quintile, gross wealth, among households",int8,5,False
+2023,d,dhaq01,"DHAQ01 Country quintile, gross wealth, among households",int8,5,False
+2010,d,dhaq01ea,"DHAQ01EA EA quintile, gross wealth, among households",int64,5,False
+2014,d,dhaq01ea,"DHAQ01EA EA quintile, gross wealth, among households",int8,5,False
+2017,d,dhaq01ea,"DHAQ01EA EA quintile, gross wealth, among households",int64,5,False
+2021,d,dhaq01ea,"DHAQ01EA EA quintile, gross wealth, among households",int64,5,False
+2023,d,dhaq01ea,"DHAQ01EA EA quintile, gross wealth, among households",int64,5,False
+2010,d,dhchildrendependent,DHchildrendependent Number of dependent children,int8,5,False
+2014,d,dhchildrendependent,DHchildrendependent Number of dependent children,int8,5,False
+2017,d,dhchildrendependent,DHchildrendependent Number of dependent children,int8,5,False
+2021,d,dhchildrendependent,DHchildrendependent Number of dependent children,int8,5,False
+2023,d,dhchildrendependent,DHchildrendependent Number of dependent children,int8,5,False
+2021,d,dhdegurba,Degree of urbanisation,int64,5,False
+2023,d,dhdegurba,Degree of urbanisation,int64,5,False
+2010,d,dheduh1,DHEDUH1 Education of reference person,int64,5,False
+2014,d,dheduh1,DHEDUH1 Education of reference person,int64,5,False
+2017,d,dheduh1,DHEDUH1 Education of reference person,int64,5,False
+2021,d,dheduh1,DHEDUH1 Education of reference person,int64; int8,5,False
+2023,d,dheduh1,DHEDUH1 Education of reference person,int8,5,False
+2010,d,dhemph1,DHEMPH1 Main labour status of reference person,int64,5,False
+2014,d,dhemph1,DHEMPH1 Main labour status of reference person,int64,5,False
+2017,d,dhemph1,DHEMPH1 Main labour status of reference person,int64; int8,5,False
+2021,d,dhemph1,DHEMPH1 Main labour status of reference person,int64,5,False
+2023,d,dhemph1,DHEMPH1 Main labour status of reference person,int8,5,False
+2010,d,dhgenderh1,DHGENDERH1 Gender of reference person,int64,5,False
+2014,d,dhgenderh1,DHGENDERH1 Gender of reference person,int64,5,False
+2017,d,dhgenderh1,DHGENDERH1 Gender of reference person,int64,5,False
+2021,d,dhgenderh1,DHGENDERH1 Gender of reference person,int8,5,False
+2023,d,dhgenderh1,DHGENDERH1 Gender of reference person,int64,5,False
+2010,d,dhhst,DHHST Housing status,int8,5,False
+2014,d,dhhst,DHHST Housing status,int64,5,False
+2017,d,dhhst,DHHST Housing status,int64,5,False
+2021,d,dhhst,DHHST Housing status,int8,5,False
+2023,d,dhhst,DHHST Housing status,int8,5,False
+2010,d,dhhtype,DHHTYPE Household type,int8,5,False
+2014,d,dhhtype,DHHTYPE Household type,int64,5,False
+2017,d,dhhtype,DHHTYPE Household type,int64,5,False
+2021,d,dhhtype,DHHTYPE Household type,int8,5,False
+2023,d,dhhtype,DHHTYPE Household type,int64,5,False
+2010,d,dhidh1,DHIDH1 Household head1 ID,int8,5,False
+2014,d,dhidh1,DHIDH1 Household head1 ID,int8,5,False
+2017,d,dhidh1,DHIDH1 Household head1 ID,int8,5,False
+2021,d,dhidh1,DHIDH1 Household head1 ID,int8,5,False
+2023,d,dhidh1,DHIDH1 Household head1 ID,int8,5,False
+2010,d,dhiq01,"DHIQ01 Country quintile, total gross income (DI2000), among households",int8,5,False
+2014,d,dhiq01,"DHIQ01 Country quintile, total gross income (DI2000), among households",int64,5,False
+2017,d,dhiq01,"DHIQ01 Country quintile, total gross income (DI2000), among households",int8,5,False
+2021,d,dhiq01,"DHIQ01 Country quintile, total gross income (DI2000), among households",int8,5,False
+2023,d,dhiq01,"DHIQ01 Country quintile, total gross income (DI2000), among households",int64,5,False
+2010,d,dhiq01ea,"DHIQ01EA EA quintile, total gross income (DI2000), among households",int64,5,False
+2014,d,dhiq01ea,"DHIQ01EA EA quintile, total gross income (DI2000), among households",int64,5,False
+2017,d,dhiq01ea,"DHIQ01EA EA quintile, total gross income (DI2000), among households",int64,5,False
+2021,d,dhiq01ea,"DHIQ01EA EA quintile, total gross income (DI2000), among households",int64,5,False
+2023,d,dhiq01ea,"DHIQ01EA EA quintile, total gross income (DI2000), among households",int64,5,False
+2017,d,dhlifesatis,DHLIFESATIS Life satisfaction,int64,5,False
+2010,d,dhlq01,"DHLQ01 Country quintile, total liabilities, among indebted households",int64,5,False
+2014,d,dhlq01,"DHLQ01 Country quintile, total liabilities, among indebted households",int64,5,False
+2017,d,dhlq01,"DHLQ01 Country quintile, total liabilities, among indebted households",int64,5,False
+2021,d,dhlq01,"DHLQ01 Country quintile, total liabilities, among indebted households",int64,5,False
+2023,d,dhlq01,"DHLQ01 Country quintile, total liabilities, among indebted households",int64,5,False
+2010,d,dhlq01ea,"DHLQ01EA EA quintile, total liabilities, among indebted households",int64,5,False
+2014,d,dhlq01ea,"DHLQ01EA EA quintile, total liabilities, among indebted households",int64,5,False
+2017,d,dhlq01ea,"DHLQ01EA EA quintile, total liabilities, among indebted households",int64,5,False
+2021,d,dhlq01ea,"DHLQ01EA EA quintile, total liabilities, among indebted households",int64,5,False
+2023,d,dhlq01ea,"DHLQ01EA EA quintile, total liabilities, among indebted households",int64,5,False
+2010,d,dhn013,DHN013 Number of children in household (0-13),int8,5,False
+2014,d,dhn013,DHN013 Number of children in household (0-13),int8,5,False
+2017,d,dhn013,DHN013 Number of children in household (0-13),int8,5,False
+2021,d,dhn013,DHN013 Number of children in household (0-13),int8,5,False
+2023,d,dhn013,DHN013 Number of children in household (0-13),int8,5,False
+2010,d,dhnq01,"DHNQ01 Country quintile, net wealth, among households",int64; int8,5,False
+2014,d,dhnq01,"DHNQ01 Country quintile, net wealth, among households",int64,5,False
+2017,d,dhnq01,"DHNQ01 Country quintile, net wealth, among households",int8,5,False
+2021,d,dhnq01,"DHNQ01 Country quintile, net wealth, among households",int8,5,False
+2023,d,dhnq01,"DHNQ01 Country quintile, net wealth, among households",int8,5,False
+2010,d,dhnq01ea,"DHNQ01EA EA quintile, net wealth, among households",int64,5,False
+2014,d,dhnq01ea,"DHNQ01EA EA quintile, net wealth, among households",int64,5,False
+2017,d,dhnq01ea,"DHNQ01EA EA quintile, net wealth, among households",int64,5,False
+2021,d,dhnq01ea,"DHNQ01EA EA quintile, net wealth, among households",int64,5,False
+2023,d,dhnq01ea,"DHNQ01EA EA quintile, net wealth, among households",int64,5,False
+2010,d,dhra0100h,DHRA0100H RA0100 of reference person,int8,5,False
+2014,d,dhra0100h,DHRA0100H RA0100 of reference person,int8,5,False
+2017,d,dhra0100h,DHRA0100H RA0100 of reference person,int8,5,False
+2021,d,dhra0100h,DHRA0100H RA0100 of reference person,int8,5,False
+2023,d,dhra0100h1,DHRA0100H1 RA0100 of reference person,int8,5,False
+2017,d,dhregion,DHREGION Region (national coding),string,5,False
+2021,d,dhregion,DHREGION Region (national coding),string,5,False
+2023,d,dhregion,DHREGION Region (national coding),string,5,False
+2017,d,dhtimeeh1,DHTIMEEH1 Total time in employment for reference person,double,5,False
+2021,d,dhtimeeh1,DHTIMEEH1 Total time in employment for reference person,double,5,False
+2023,d,dhtimeeh1,DHTIMEEH1 Total time in employment for reference person,double,5,False
+2010,d,di1100,DI1100 Employee income,double,5,False
+2014,d,di1100,DI1100 Employee income,double,5,False
+2017,d,di1100,DI1100 Employee income,double,5,False
+2021,d,di1100,DI1100 Employee income,double,5,False
+2023,d,di1100,DI1100 Employee income,double,5,False
+2010,d,di1100i,DI1100i Has employee income,int8,5,False
+2014,d,di1100i,DI1100i Has employee income,int8,5,False
+2017,d,di1100i,DI1100i Has employee income,int8,5,False
+2021,d,di1100i,DI1100i Has employee income,int8,5,False
+2023,d,di1100i,DI1100i Has employee income,int8,5,False
+2010,d,di1200,DI1200 Self-employment income,double,5,False
+2014,d,di1200,DI1200 Self-employment income,double,5,False
+2017,d,di1200,DI1200 Self-employment income,double,5,False
+2021,d,di1200,DI1200 Self-employment income,double,5,False
+2023,d,di1200,DI1200 Self-employment income,double,5,False
+2010,d,di1200i,DI1200i Has self-employment income,int8,5,False
+2014,d,di1200i,DI1200i Has self-employment income,int8,5,False
+2017,d,di1200i,DI1200i Has self-employment income,int8,5,False
+2021,d,di1200i,DI1200i Has self-employment income,int8,5,False
+2023,d,di1200i,DI1200i Has self-employment income,int8,5,False
+2010,d,di1300,DI1300 Rental income from real estate property,double,5,False
+2014,d,di1300,DI1300 Rental income from real estate property,double,5,False
+2017,d,di1300,DI1300 Rental income from real estate property,double,5,False
+2021,d,di1300,DI1300 Rental income from real estate property,double,5,False
+2023,d,di1300,DI1300 Rental income from real estate property,double,5,False
+2010,d,di1300i,DI1300i Has rental income from real estate property,int8,5,False
+2014,d,di1300i,DI1300i Has rental income from real estate property,int8,5,False
+2017,d,di1300i,DI1300i Has rental income from real estate property,int8,5,False
+2021,d,di1300i,DI1300i Has rental income from real estate property,int8,5,False
+2023,d,di1300i,DI1300i Has rental income from real estate property,int8,5,False
+2010,d,di1400,DI1400 Income from financial investments,double,5,False
+2014,d,di1400,DI1400 Income from financial investments,double,5,False
+2017,d,di1400,DI1400 Income from financial investments,double,5,False
+2021,d,di1400,DI1400 Income from financial investments,double,5,False
+2023,d,di1400,DI1400 Income from financial investments,double,5,False
+2010,d,di1400i,DI1400i Has income from financial investments,int8,5,False
+2014,d,di1400i,DI1400i Has income from financial investments,int64,5,False
+2017,d,di1400i,DI1400i Has income from financial investments,int8,5,False
+2021,d,di1400i,DI1400i Has income from financial investments,int8,5,False
+2023,d,di1400i,DI1400i Has income from financial investments,int64,5,False
+2010,d,di1410,"DI1410 Income from financial assets, gross of interest payments",double,5,False
+2014,d,di1410,"DI1410 Income from financial assets, gross of interest payments",double,5,False
+2017,d,di1410,"DI1410 Income from financial assets, gross of interest payments",double,5,False
+2021,d,di1410,"DI1410 Income from financial assets, gross of interest payments",double,5,False
+2023,d,di1410,"DI1410 Income from financial assets, gross of interest payments",double,5,False
+2010,d,di1410i,"DI1410i Has income from financial assets, gross of interest payments",int8,5,False
+2014,d,di1410i,"DI1410i Has income from financial assets, gross of interest payments",int64,5,False
+2017,d,di1410i,"DI1410i Has income from financial assets, gross of interest payments",int8,5,False
+2021,d,di1410i,"DI1410i Has income from financial assets, gross of interest payments",int8,5,False
+2023,d,di1410i,"DI1410i Has income from financial assets, gross of interest payments",int8,5,False
+2010,d,di1412,DI1412 Interest payments,double,5,False
+2014,d,di1412,DI1412 Interest payments,double,5,False
+2017,d,di1412,DI1412 Interest payments,double,5,False
+2021,d,di1412,DI1412 Interest payments,double,5,False
+2023,d,di1412,DI1412 Interest payments,double,5,False
+2010,d,di1420,DI1420 Income from private business other than self-employment,double,5,False
+2014,d,di1420,DI1420 Income from private business other than self-employment,double,5,False
+2017,d,di1420,DI1420 Income from private business other than self-employment,double,5,False
+2021,d,di1420,DI1420 Income from private business other than self-employment,double,5,False
+2023,d,di1420,DI1420 Income from private business other than self-employment,double,5,False
+2010,d,di1420i,DI1420i Has income from private business other than self-employment,int64,5,False
+2014,d,di1420i,DI1420i Has income from private business other than self-employment,int64,5,False
+2017,d,di1420i,DI1420i Has income from private business other than self-employment,int8,5,False
+2021,d,di1420i,DI1420i Has income from private business other than self-employment,int8,5,False
+2023,d,di1420i,DI1420i Has income from private business other than self-employment,int8,5,False
+2010,d,di1500,DI1500 Income from pensions,double,5,False
+2014,d,di1500,DI1500 Income from pensions,double,5,False
+2017,d,di1500,DI1500 Income from pensions,double,5,False
+2021,d,di1500,DI1500 Income from pensions,double,5,False
+2023,d,di1500,DI1500 Income from pensions,double,5,False
+2010,d,di1500i,DI1500i Has income from pensions,int8,5,False
+2014,d,di1500i,DI1500i Has income from pensions,int8,5,False
+2017,d,di1500i,DI1500i Has income from pensions,int8,5,False
+2021,d,di1500i,DI1500i Has income from pensions,int8,5,False
+2023,d,di1500i,DI1500i Has income from pensions,int8,5,False
+2010,d,di1510,DI1510 Income from public pensions,double,5,False
+2014,d,di1510,DI1510 Income from public pensions,double,5,False
+2017,d,di1510,DI1510 Income from public pensions,double,5,False
+2021,d,di1510,DI1510 Income from public pensions,double,5,False
+2023,d,di1510,DI1510 Income from public pensions,double,5,False
+2010,d,di1510i,DI1510i Has income from public pensions,int8,5,False
+2014,d,di1510i,DI1510i Has income from public pensions,int8,5,False
+2017,d,di1510i,DI1510i Has income from public pensions,int8,5,False
+2021,d,di1510i,DI1510i Has income from public pensions,int8,5,False
+2023,d,di1510i,DI1510i Has income from public pensions,int8,5,False
+2010,d,di1520,DI1520 Income from occupational and private pensions,double,5,False
+2014,d,di1520,DI1520 Income from occupational and private pensions,double,5,False
+2017,d,di1520,DI1520 Income from occupational and private pensions,double,5,False
+2021,d,di1520,DI1520 Income from occupational and private pensions,double,5,False
+2023,d,di1520,DI1520 Income from occupational and private pensions,double,5,False
+2010,d,di1520i,DI1520i Has income from occupational and private pensions,int8,5,False
+2014,d,di1520i,DI1520i Has income from occupational and private pensions,int8,5,False
+2017,d,di1520i,DI1520i Has income from occupational and private pensions,int8,5,False
+2021,d,di1520i,DI1520i Has income from occupational and private pensions,int8,5,False
+2023,d,di1520i,DI1520i Has income from occupational and private pensions,int8,5,False
+2010,d,di1600,DI1600 Regular social transfers (except pensions),double,5,False
+2014,d,di1600,DI1600 Regular social transfers (except pensions),double,5,False
+2017,d,di1600,DI1600 Regular social transfers (except pensions),double,5,False
+2021,d,di1600,DI1600 Regular social transfers (except pensions),double,5,False
+2023,d,di1600,DI1600 Regular social transfers (except pensions),double,5,False
+2010,d,di1600i,DI1600i Has income from regular social transfers (except pensions),int8,5,False
+2014,d,di1600i,DI1600i Has income from regular social transfers (except pensions),int64,5,False
+2017,d,di1600i,DI1600i Has income from regular social transfers (except pensions),int8,5,False
+2021,d,di1600i,DI1600i Has income from regular social transfers (except pensions),int8,5,False
+2023,d,di1600i,DI1600i Has income from regular social transfers (except pensions),int8,5,False
+2010,d,di1610,DI1610 Unemployment benefits,double,5,False
+2014,d,di1610,DI1610 Unemployment benefits,double,5,False
+2017,d,di1610,DI1610 Unemployment benefits,double,5,False
+2021,d,di1610,DI1610 Unemployment benefits,double,5,False
+2023,d,di1610,DI1610 Unemployment benefits,double,5,False
+2010,d,di1610i,DI1610i Has income from unemployment benefits,int8,5,False
+2014,d,di1610i,DI1610i Has income from unemployment benefits,int8,5,False
+2017,d,di1610i,DI1610i Has income from unemployment benefits,int8,5,False
+2021,d,di1610i,DI1610i Has income from unemployment benefits,int8,5,False
+2023,d,di1610i,DI1610i Has income from unemployment benefits,int8,5,False
+2010,d,di1620,DI1620 Other social transfers,double,5,False
+2014,d,di1620,DI1620 Other social transfers,double,5,False
+2017,d,di1620,DI1620 Other social transfers,double,5,False
+2021,d,di1620,DI1620 Other social transfers,double,5,False
+2023,d,di1620,DI1620 Other social transfers,double,5,False
+2010,d,di1620i,DI1620i Has income from other social transfers,int8,5,False
+2014,d,di1620i,DI1620i Has income from other social transfers,int64,5,False
+2017,d,di1620i,DI1620i Has income from other social transfers,int8,5,False
+2021,d,di1620i,DI1620i Has income from other social transfers,int8,5,False
+2023,d,di1620i,DI1620i Has income from other social transfers,int8,5,False
+2010,d,di1700,DI1700 Regular private transfers,double,5,False
+2014,d,di1700,DI1700 Regular private transfers,double,5,False
+2017,d,di1700,DI1700 Regular private transfers,double,5,False
+2021,d,di1700,DI1700 Regular private transfers,double,5,False
+2023,d,di1700,DI1700 Regular private transfers,double,5,False
+2010,d,di1700i,DI1700i Has income from regular private transfers,int8,5,False
+2014,d,di1700i,DI1700i Has income from regular private transfers,int8,5,False
+2017,d,di1700i,DI1700i Has income from regular private transfers,int8,5,False
+2021,d,di1700i,DI1700i Has income from regular private transfers,int8,5,False
+2023,d,di1700i,DI1700i Has income from regular private transfers,int8,5,False
+2010,d,di1800,DI1800 Income from other sources,double,5,False
+2014,d,di1800,DI1800 Income from other sources,double,5,False
+2017,d,di1800,DI1800 Income from other sources,double,5,False
+2021,d,di1800,DI1800 Income from other sources,double,5,False
+2023,d,di1800,DI1800 Income from other sources,double,5,False
+2010,d,di1800i,DI1800i Has income from other sources,int8,5,False
+2014,d,di1800i,DI1800i Has income from other sources,int8,5,False
+2017,d,di1800i,DI1800i Has income from other sources,int8,5,False
+2021,d,di1800i,DI1800i Has income from other sources,int8,5,False
+2023,d,di1800i,DI1800i Has income from other sources,int8,5,False
+2017,d,di1900,DI1900 Financial assistance from relatives and friends,double,5,False
+2021,d,di1900,DI1900 Financial assistance from relatives and friends,double,5,False
+2023,d,di1900,DI1900 Financial assistance from relatives and friends,double,5,False
+2017,d,di1900i,DI1900i Has financial assistance from relatives and friends,int64,5,False
+2021,d,di1900i,DI1900i Has financial assistance from relatives and friends,int8,5,False
+2023,d,di1900i,DI1900i Has financial assistance from relatives and friends,int8,5,False
+2010,d,di2000,DI2000 Total household gross income,double,5,False
+2014,d,di2000,DI2000 Total household gross income,double,5,False
+2017,d,di2000,DI2000 Total household gross income,double,5,False
+2021,d,di2000,DI2000 Total household gross income,double,5,False
+2023,d,di2000,DI2000 Total household gross income,double,5,False
+2010,d,di2000eq,DI2000eq Equivalised household gross income,double,5,False
+2014,d,di2000eq,DI2000eq Equivalised household gross income,double,5,False
+2017,d,di2000eq,DI2000eq Equivalised household gross income,double,5,False
+2021,d,di2000eq,DI2000eq Equivalised household gross income,double,5,False
+2023,d,di2000eq,DI2000eq Equivalised household gross income,double,5,False
+2017,d,di2100,DI2100 Total household gross income and financial assistance,double,5,False
+2021,d,di2100,DI2100 Total household gross income and financial assistance,double,5,False
+2023,d,di2100,DI2100 Total household gross income and financial assistance,double,5,False
+2010,d,ditop10,DITOP10 Country top 10% total gross income,int8,5,True
+2014,d,ditop10,DITOP10 Country top 10% total gross income,int64,5,True
+2017,d,ditop10,DITOP10 Country top 10% total gross income,int8,5,True
+2021,d,ditop10,DITOP10 Country top 10% total gross income,int8,5,True
+2023,d,ditop10,"DITOP10 Percentiles, total gross income, among households",int64,5,True
+2010,d,ditop10ea,DITOP10EA EA top 10% total gross income,int64,5,True
+2014,d,ditop10ea,DITOP10EA EA top 10% total gross income,int64,5,True
+2017,d,ditop10ea,DITOP10EA EA top 10% total gross income,int64,5,True
+2021,d,ditop10ea,DITOP10EA EA top 10% total gross income,int64,5,True
+2023,d,ditop10ea,"DITOP10EA EA percentiles, total gross income, among households",int64,5,True
+2010,d,ditop10eq,DITOP10eq Country top 10% gross equalised income,int8,5,True
+2014,d,ditop10eq,DITOP10eq Country top 10% gross equivalised income,int8,5,True
+2017,d,ditop10eq,DITOP10eq Country top 10% gross equivalised income,int8,5,True
+2021,d,ditop10eq,DITOP10eq Country top 10% gross equivalised income,int8,5,True
+2023,d,ditop10eq,"DITOP10eq Percentiles, gross equalised income, among households",int8,5,True
+2010,d,ditop10eqea,DITOP10eqEA EA top 10% gross equalised income,int64,5,True
+2014,d,ditop10eqea,DITOP10eqEA EA top 10% gross equivalised income,int8,5,True
+2017,d,ditop10eqea,DITOP10eqEA EA top 10% gross equivalised income,int64,5,True
+2021,d,ditop10eqea,DITOP10eqEA EA top 10% gross equivalised income,int64,5,True
+2023,d,ditop10eqea,"DITOP10eqEA EA percentiles, gross equalised income, among households",int64,5,True
+2010,d,dl1000,DL1000 Total outstanding balance of household's liabilities,double,5,False
+2014,d,dl1000,DL1000 Total outstanding balance of household's liabilities,double,5,False
+2017,d,dl1000,DL1000 Total outstanding balance of household's liabilities,double,5,False
+2021,d,dl1000,DL1000 Total outstanding balance of household's liabilities,double,5,False
+2023,d,dl1000,DL1000 Total outstanding balance of household's liabilities,double,5,False
+2010,d,dl1000i,DL1000i Has debt,int8,5,False
+2014,d,dl1000i,DL1000i Has debt,int8,5,False
+2017,d,dl1000i,DL1000i Has debt,int8,5,False
+2021,d,dl1000i,DL1000i Has debt,int8,5,False
+2023,d,dl1000i,DL1000i Has debt,int8,5,False
+2010,d,dl1100,DL1100 Outstanding balance of mortgage debt,double,5,False
+2014,d,dl1100,DL1100 Outstanding balance of mortgage debt,double,5,False
+2017,d,dl1100,DL1100 Outstanding balance of mortgage debt,double,5,False
+2021,d,dl1100,DL1100 Outstanding balance of mortgage debt,double,5,False
+2023,d,dl1100,DL1100 Outstanding balance of mortgage debt,double,5,False
+2010,d,dl1100i,DL1100i Has mortgage debt,int8,5,False
+2014,d,dl1100i,DL1100i Has mortgage debt,int64,5,False
+2017,d,dl1100i,DL1100i Has mortgage debt,int8,5,False
+2021,d,dl1100i,DL1100i Has mortgage debt,int8,5,False
+2023,d,dl1100i,DL1100i Has mortgage debt,int8,5,False
+2010,d,dl1110,DL1110 Outstanding balance of HMR mortgages,double,5,False
+2014,d,dl1110,DL1110 Outstanding balance of HMR mortgages,double,5,False
+2017,d,dl1110,DL1110 Outstanding balance of HMR mortgages,double,5,False
+2021,d,dl1110,DL1110 Outstanding balance of HMR mortgages,double,5,False
+2023,d,dl1110,DL1110 Outstanding balance of HMR mortgages,double,5,False
+2010,d,dl1110a,DL1110a Outstanding balance of adjustable interest rate HMR mortgages,double,5,False
+2014,d,dl1110a,DL1110a Outstanding balance of adjustable interest rate HMR mortgages,double,5,False
+2017,d,dl1110a,DL1110a Outstanding balance of adjustable interest rate HMR mortgages,double,5,False
+2021,d,dl1110a,DL1110a Outstanding balance of adjustable interest rate HMR mortgages,double,5,False
+2023,d,dl1110a,DL1110a Outstanding balance of adjustable interest rate HMR mortgages,double,5,False
+2010,d,dl1110ai,DL1110ai Has adjustable interest rate HMR mortgage,int8,5,False
+2014,d,dl1110ai,DL1110ai Has adjustable interest rate HMR mortgage,int8,5,False
+2017,d,dl1110ai,DL1110ai Has adjustable interest rate HMR mortgage,int8,5,False
+2021,d,dl1110ai,DL1110ai Has adjustable interest rate HMR mortgage,int8,5,False
+2023,d,dl1110ai,DL1110ai Has adjustable interest rate HMR mortgage,int8,5,False
+2010,d,dl1110b,DL1110b Outstanding balance of fixed interest rate HMR mortgages,double,5,False
+2014,d,dl1110b,DL1110b Outstanding balance of fixed interest rate HMR mortgages,double,5,False
+2017,d,dl1110b,DL1110b Outstanding balance of fixed interest rate HMR mortgages,double,5,False
+2021,d,dl1110b,DL1110b Outstanding balance of fixed interest rate HMR mortgages,double,5,False
+2023,d,dl1110b,DL1110b Outstanding balance of fixed interest rate HMR mortgages,double,5,False
+2010,d,dl1110bi,DL1110bi Has fixed interest rate HMR mortgage,int8,5,False
+2014,d,dl1110bi,DL1110bi Has fixed interest rate HMR mortgage,int64,5,False
+2017,d,dl1110bi,DL1110bi Has fixed interest rate HMR mortgage,int8,5,False
+2021,d,dl1110bi,DL1110bi Has fixed interest rate HMR mortgage,int8,5,False
+2023,d,dl1110bi,DL1110bi Has fixed interest rate HMR mortgage,int8,5,False
+2010,d,dl1110c,DL1110c Outstanding balance of unknown interest rate regime HMR mortgages,double,5,False
+2014,d,dl1110c,DL1110c Outstanding balance of unknown interest rate regime HMR mortgages,double,5,False
+2017,d,dl1110c,DL1110c Outstanding balance of unknown interest rate regime HMR mortgages,double,5,False
+2021,d,dl1110c,DL1110c Outstanding balance of unknown interest rate regime HMR mortgages,double,5,False
+2023,d,dl1110c,DL1110c Outstanding balance of unknown interest rate regime HMR mortgages,double,5,False
+2010,d,dl1110ci,DL1110ci Has unknown interest rate regime HMR mortgage,int8,5,False
+2014,d,dl1110ci,DL1110ci Has unknown interest rate regime HMR mortgage,int8,5,False
+2017,d,dl1110ci,DL1110ci Has unknown interest rate regime HMR mortgage,int8,5,False
+2021,d,dl1110ci,DL1110ci Has unknown interest rate regime HMR mortgage,int8,5,False
+2023,d,dl1110ci,DL1110ci Has unknown interest rate regime HMR mortgage,int8,5,False
+2010,d,dl1110i,DL1110i Has HMR mortgage,int8,5,False
+2014,d,dl1110i,DL1110i Has HMR mortgage,int64,5,False
+2017,d,dl1110i,DL1110i Has HMR mortgage,int8,5,False
+2021,d,dl1110i,DL1110i Has HMR mortgage,int8,5,False
+2023,d,dl1110i,DL1110i Has HMR mortgage,int8,5,False
+2010,d,dl1120,DL1120 Outstanding balance of mortgages on other properties,double,5,False
+2014,d,dl1120,DL1120 Outstanding balance of mortgages on other properties,double,5,False
+2017,d,dl1120,DL1120 Outstanding balance of mortgages on other properties,double,5,False
+2021,d,dl1120,DL1120 Outstanding balance of mortgages on other properties,double,5,False
+2023,d,dl1120,DL1120 Outstanding balance of mortgages on other properties,double,5,False
+2010,d,dl1120a,DL1120a Outstanding balance of adjustable interest rate mortgages on other prope,double,5,False
+2014,d,dl1120a,DL1120a Outstanding balance of adjustable interest rate mortgages on other prope,double,5,False
+2017,d,dl1120a,DL1120a Outstanding balance of adjustable interest rate mortgages on other prope,double,5,False
+2021,d,dl1120a,DL1120a Outstanding balance of adjustable interest rate mortgages on other prope,double,5,False
+2023,d,dl1120a,DL1120a Outstanding balance of adjustable interest rate mortgages on other prope,double,5,False
+2010,d,dl1120ai,DL1120ai Has adjustable interest rate other property mortgage,int64,5,False
+2014,d,dl1120ai,DL1120ai Has adjustable interest rate other property mortgage,int64,5,False
+2017,d,dl1120ai,DL1120ai Has adjustable interest rate other property mortgage,int8,5,False
+2021,d,dl1120ai,DL1120ai Has adjustable interest rate other property mortgage,int8,5,False
+2023,d,dl1120ai,DL1120ai Has adjustable interest rate other property mortgage,int8,5,False
+2010,d,dl1120b,DL1120b Outstanding balance of fixed interest rate mortgages on other properties,double,5,False
+2014,d,dl1120b,DL1120b Outstanding balance of fixed interest rate mortgages on other properties,double,5,False
+2017,d,dl1120b,DL1120b Outstanding balance of fixed interest rate mortgages on other properties,double,5,False
+2021,d,dl1120b,DL1120b Outstanding balance of fixed interest rate mortgages on other properties,double,5,False
+2023,d,dl1120b,DL1120b Outstanding balance of fixed interest rate mortgages on other properties,double,5,False
+2010,d,dl1120bi,DL1120bi Has fixed interest rate other property mortgage,int64,5,False
+2014,d,dl1120bi,DL1120bi Has fixed interest rate other property mortgage,int64,5,False
+2017,d,dl1120bi,DL1120bi Has fixed interest rate other property mortgage,int8,5,False
+2021,d,dl1120bi,DL1120bi Has fixed interest rate other property mortgage,int8,5,False
+2023,d,dl1120bi,DL1120bi Has fixed interest rate other property mortgage,int8,5,False
+2010,d,dl1120c,DL1120c Outstanding balance of unknown interest rate regime mortgages on other p,double,5,False
+2014,d,dl1120c,DL1120c Outstanding balance of unknown interest rate regime mortgages on other p,double,5,False
+2017,d,dl1120c,DL1120c Outstanding balance of unknown interest rate regime mortgages on other p,double,5,False
+2021,d,dl1120c,DL1120c Outstanding balance of unknown interest rate regime mortgages on other p,double,5,False
+2023,d,dl1120c,DL1120c Outstanding balance of unknown interest rate regime mortgages on other p,double,5,False
+2010,d,dl1120ci,DL1120ci Has unknown interest rate regime other property mortgage,int64,5,False
+2014,d,dl1120ci,DL1120ci Has unknown interest rate regime other property mortgage,int64,5,False
+2017,d,dl1120ci,DL1120ci Has unknown interest rate regime other property mortgage,int8,5,False
+2021,d,dl1120ci,DL1120ci Has unknown interest rate regime other property mortgage,int8,5,False
+2023,d,dl1120ci,DL1120ci Has unknown interest rate regime other property mortgage,int8,5,False
+2010,d,dl1120i,DL1120i Has other property mortgage,int64,5,False
+2014,d,dl1120i,DL1120i Has other property mortgage,int64,5,False
+2017,d,dl1120i,DL1120i Has other property mortgage,int8,5,False
+2021,d,dl1120i,DL1120i Has other property mortgage,int8,5,False
+2023,d,dl1120i,DL1120i Has other property mortgage,int8,5,False
+2010,d,dl1200,DL1200 Outstanding balance of non-mortgage debt,double,5,False
+2014,d,dl1200,DL1200 Outstanding balance of non-mortgage debt,double,5,False
+2017,d,dl1200,DL1200 Outstanding balance of non-mortgage debt,double,5,False
+2021,d,dl1200,DL1200 Outstanding balance of non-mortgage debt,double,5,False
+2023,d,dl1200,DL1200 Outstanding balance of non-mortgage debt,double,5,False
+2010,d,dl1200i,DL1200i Has non-mortgage debt,int64,5,False
+2014,d,dl1200i,DL1200i Has non-mortgage debt,int8,5,False
+2017,d,dl1200i,DL1200i Has non-mortgage debt,int8,5,False
+2021,d,dl1200i,DL1200i Has non-mortgage debt,int8,5,False
+2023,d,dl1200i,DL1200i Has non-mortgage debt,int8,5,False
+2010,d,dl1210,DL1210 Outstanding balance of credit line/overdraft,double,5,False
+2014,d,dl1210,DL1210 Outstanding balance of credit line/overdraft,double,5,False
+2017,d,dl1210,DL1210 Outstanding balance of credit line/overdraft,double,5,False
+2021,d,dl1210,DL1210 Outstanding balance of credit line/overdraft,double,5,False
+2023,d,dl1210,DL1210 Outstanding balance of credit line/overdraft,double,5,False
+2010,d,dl1210i,DL1210i Has credit line/overdraft debt,int64,5,False
+2014,d,dl1210i,DL1210i Has credit line/overdraft debt,int8,5,False
+2017,d,dl1210i,DL1210i Has credit line/overdraft debt,int8,5,False
+2021,d,dl1210i,DL1210i Has credit line/overdraft debt,int8,5,False
+2023,d,dl1210i,DL1210i Has credit line/overdraft debt,int8,5,False
+2010,d,dl1220,DL1220 Outstanding balance of credit card debt,double,5,False
+2014,d,dl1220,DL1220 Outstanding balance of credit card debt,double,5,False
+2017,d,dl1220,DL1220 Outstanding balance of credit card debt,double,5,False
+2021,d,dl1220,DL1220 Outstanding balance of credit card debt,double,5,False
+2023,d,dl1220,DL1220 Outstanding balance of credit card debt,double,5,False
+2010,d,dl1220i,DL1220i Has credit card debt,int64,5,False
+2014,d,dl1220i,DL1220i Has credit card debt,int8,5,False
+2017,d,dl1220i,DL1220i Has credit card debt,int8,5,False
+2021,d,dl1220i,DL1220i Has credit card debt,int8,5,False
+2023,d,dl1220i,DL1220i Has credit card debt,int8,5,False
+2010,d,dl1230,DL1230 Outstanding balance of other non-mortgage loans,double,5,False
+2014,d,dl1230,DL1230 Outstanding balance of other non-mortgage loans,double,5,False
+2017,d,dl1230,DL1230 Outstanding balance of other non-mortgage loans,double,5,False
+2021,d,dl1230,DL1230 Outstanding balance of other non-mortgage loans,double,5,False
+2023,d,dl1230,DL1230 Outstanding balance of other non-mortgage loans,double,5,False
+2010,d,dl1230i,DL1230i Has non-mortgage loans,int8,5,True
+2014,d,dl1230i,DL1230i Has other non-mortgage loans,int64,5,True
+2017,d,dl1230i,DL1230i Has other non-mortgage loans,int8,5,True
+2021,d,dl1230i,DL1230i Has other non-mortgage loans,int8,5,True
+2023,d,dl1230i,DL1230i Has other non-mortgage loans,int8,5,True
+2014,d,dl1231,DL1231 Outstanding balance of private loans,double,5,False
+2017,d,dl1231,DL1231 Outstanding balance of private loans,double,5,False
+2021,d,dl1231,DL1231 Outstanding balance of private loans,double,5,False
+2023,d,dl1231,DL1231 Outstanding balance of private loans,double,5,False
+2014,d,dl1231i,DL1231i Has private loans,int64,5,False
+2017,d,dl1231i,DL1231i Has private loans,int8,5,False
+2021,d,dl1231i,DL1231i Has private loans,int8,5,False
+2023,d,dl1231i,DL1231i Has private loans,int8,5,False
+2014,d,dl1232,DL1232 Outstanding balance of other non-private non-mortgage loans,double,5,False
+2017,d,dl1232,DL1232 Outstanding balance of other non-private non-mortgage loans,double,5,False
+2021,d,dl1232,DL1232 Outstanding balance of other non-private non-mortgage loans,double,5,False
+2023,d,dl1232,DL1232 Outstanding balance of other non-private non-mortgage loans,double,5,False
+2014,d,dl1232i,DL1232i Has other non-private non-mortgage loans,int64,5,False
+2017,d,dl1232i,DL1232i Has other non-private non-mortgage loans,int8,5,False
+2021,d,dl1232i,DL1232i Has other non-private non-mortgage loans,int8,5,False
+2023,d,dl1232i,DL1232i Has other non-private non-mortgage loans,int8,5,False
+2010,d,dl2000,DL2000 Payments for household's total debt (flow),double,5,False
+2014,d,dl2000,DL2000 Payments for household's total debt (flow),double,5,False
+2017,d,dl2000,DL2000 Payments for household's total debt (flow),double,5,False
+2021,d,dl2000,DL2000 Payments for household's total debt (flow),double,5,False
+2023,d,dl2000,DL2000 Payments for household's total debt (flow),double,5,False
+2010,d,dl2000i,DL2000i Has debt payments,int64,5,False
+2014,d,dl2000i,DL2000i Has debt payments,int64,5,False
+2017,d,dl2000i,DL2000i Has debt payments,int64,5,False
+2021,d,dl2000i,DL2000i Has debt payments,int64,5,False
+2023,d,dl2000i,DL2000i Has debt payments,int8,5,False
+2010,d,dl2100,DL2100 Payments for mortgages (flow),double,5,False
+2014,d,dl2100,DL2100 Payments for mortgages (flow),double,5,False
+2017,d,dl2100,DL2100 Payments for mortgages (flow),double,5,False
+2021,d,dl2100,DL2100 Payments for mortgages (flow),double,5,False
+2023,d,dl2100,DL2100 Payments for mortgages (flow),double,5,False
+2010,d,dl2100i,DL2100i Has mortgage payments,int64,5,False
+2014,d,dl2100i,DL2100i Has mortgage payments,int64,5,False
+2017,d,dl2100i,DL2100i Has mortgage payments,int64,5,False
+2021,d,dl2100i,DL2100i Has mortgage payments,int8,5,False
+2023,d,dl2100i,DL2100i Has mortgage payments,int8,5,False
+2010,d,dl2110,DL2110 Payments for HMR mortgages (flow),double,5,False
+2014,d,dl2110,DL2110 Payments for HMR mortgages (flow),double,5,False
+2017,d,dl2110,DL2110 Payments for HMR mortgages (flow),double,5,False
+2021,d,dl2110,DL2110 Payments for HMR mortgages (flow),double,5,False
+2023,d,dl2110,DL2110 Payments for HMR mortgages (flow),double,5,False
+2010,d,dl2110i,DL2110i Has HMR mortgage payments,int8,5,False
+2014,d,dl2110i,DL2110i Has HMR mortgage payments,int64,5,False
+2017,d,dl2110i,DL2110i Has HMR mortgage payments,int64,5,False
+2021,d,dl2110i,DL2110i Has HMR mortgage payments,int8,5,False
+2023,d,dl2110i,DL2110i Has HMR mortgage payments,int8,5,False
+2010,d,dl2120,DL2120 Payments for other property mortgages (flow),double,5,False
+2014,d,dl2120,DL2120 Payments for other property mortgages (flow),double,5,False
+2017,d,dl2120,DL2120 Payments for other property mortgages (flow),double,5,False
+2021,d,dl2120,DL2120 Payments for other property mortgages (flow),double,5,False
+2023,d,dl2120,DL2120 Payments for other property mortgages (flow),double,5,False
+2010,d,dl2120i,DL2120i Has other property mortgage payments,int64,5,False
+2014,d,dl2120i,DL2120i Has other property mortgage payments,int64,5,False
+2017,d,dl2120i,DL2120i Has other property mortgage payments,int8,5,False
+2021,d,dl2120i,DL2120i Has other property mortgage payments,int8,5,False
+2023,d,dl2120i,DL2120i Has other property mortgage payments,int8,5,False
+2010,d,dl2200,DL2200 Payments for non-mortgage debt (flow),double,5,False
+2014,d,dl2200,DL2200 Payments for non-mortgage debt (flow),double,5,False
+2017,d,dl2200,DL2200 Payments for non-mortgage debt (flow),double,5,False
+2021,d,dl2200,DL2200 Payments for non-mortgage debt (flow),double,5,False
+2023,d,dl2200,DL2200 Payments for non-mortgage debt (flow),double,5,False
+2010,d,dl2200i,DL2200i Has non-mortgage debt payments,int64,5,False
+2014,d,dl2200i,DL2200i Has non-mortgage debt payments,int64,5,False
+2017,d,dl2200i,DL2200i Has non-mortgage debt payments,int64,5,False
+2021,d,dl2200i,DL2200i Has non-mortgage debt payments,int64,5,False
+2023,d,dl2200i,DL2200i Has non-mortgage debt payments,int8,5,False
+2010,d,dl2210,DL2210 Payments for other non-mortgage loans (flow),double,5,False
+2014,d,dl2210,DL2210 Payments for other non-mortgage loans (flow),double,5,False
+2017,d,dl2210,DL2210 Payments for other non-mortgage loans (flow),double,5,False
+2010,d,dl2210i,DL2210i Has other non-mortgage loans payments,int64,5,False
+2014,d,dl2210i,DL2210i Has other non-mortgage loans payments,int64,5,False
+2017,d,dl2210i,DL2210i Has other non-mortgage loans payments,int64,5,False
+2010,d,dlcc,DLCC Has credit card,int64,5,False
+2014,d,dlcc,DLCC Has credit card,int64,5,False
+2017,d,dlcc,DLCC Has credit card,int64,5,False
+2021,d,dlcc,DLCC Has credit card,int64,5,False
+2023,d,dlcc,DLCC Has credit card,int64,5,False
+2010,d,dlcl,DLCL Has credit line/overdraft,int64,5,False
+2014,d,dlcl,DLCL Has credit line/overdraft,int64,5,False
+2017,d,dlcl,DLCL Has credit line/overdraft,int64,5,False
+2021,d,dlcl,DLCL Has credit line/overdraft,int64,5,False
+2023,d,dlcl,DLCL Has credit line/overdraft,int8,5,False
+2010,d,dltop10,DLTOP10 Country top 10% total liabilities,int64,5,True
+2014,d,dltop10,DLTOP10 Country top 10% total liabilities,int64,5,True
+2017,d,dltop10,DLTOP10 Country top 10% total liabilities,int64,5,True
+2021,d,dltop10,DLTOP10 Country top 10% total liabilities,int64,5,True
+2023,d,dltop10,"DLTOP10 Percentiles, total liabilities, among indebted households",int64,5,True
+2010,d,dltop10ea,DLTOP10EA EA top 10% total liabilities,int64,5,True
+2014,d,dltop10ea,DLTOP10EA EA top 10% total liabilities,int64,5,True
+2017,d,dltop10ea,DLTOP10EA EA top 10% total liabilities,int64,5,True
+2021,d,dltop10ea,DLTOP10EA EA top 10% total liabilities,int64,5,True
+2023,d,dltop10ea,"DLTOP10EA EA percentiles, total liabilities, among indebted households",int64,5,True
+2010,d,dn3001,DN3001 Net wealth,double,5,False
+2014,d,dn3001,DN3001 Net wealth,double,5,False
+2017,d,dn3001,DN3001 Net wealth,double,5,False
+2021,d,dn3001,DN3001 Net wealth,double,5,False
+2023,d,dn3001,DN3001 Net wealth,double,5,False
+2014,d,dnfpos,DNFPOS Net financial position [Net financial wealth],double,5,False
+2017,d,dnfpos,DNFPOS Net financial position [Net financial wealth],double,5,False
+2021,d,dnfpos,DNFPOS Net financial position [Net financial wealth],double,5,False
+2023,d,dnfpos,DNFPOS Net financial position [Net financial wealth],double,5,False
+2017,d,dnhw,DNHW Net housing wealth,double,5,False
+2021,d,dnhw,DNHW Net housing wealth,double,5,False
+2023,d,dnhw,DNHW Net housing wealth,double,5,False
+2010,d,dnnla,DNNLA Net liquid assets,double,5,False
+2014,d,dnnla,DNNLA Net liquid assets,double,5,False
+2017,d,dnnla,DNNLA Net liquid assets,double,5,False
+2021,d,dnnla,DNNLA Net liquid assets,double,5,False
+2023,d,dnnla,DNNLA Net liquid assets,double,5,False
+2010,d,dnnlai,DNNLAi Has net liquid assets,int8,5,False
+2014,d,dnnlai,DNNLAi Has net liquid assets,int8,5,False
+2017,d,dnnlai,DNNLAi Has net liquid assets,int8,5,False
+2021,d,dnnlai,DNNLAi Has net liquid assets,int8,5,False
+2023,d,dnnlai,DNNLAi Has net liquid assets,int8,5,False
+2014,d,dnnlaratio,DNNLAratio Net liquid assets as a fraction of annual gross income,double,5,False
+2017,d,dnnlaratio,DNNLAratio Net liquid assets as a fraction of annual gross income,double,5,False
+2021,d,dnnlaratio,DNNLAratio Net liquid assets as a fraction of annual gross income,double,5,False
+2023,d,dnnlaratio,DNNLAratio Net liquid assets as a fraction of annual gross income,double,5,False
+2010,d,dntop10,DNTOP10 Country top 10% net wealth,int64; int8,5,True
+2014,d,dntop10,DNTOP10 Country top 10% net wealth,int64,5,True
+2017,d,dntop10,DNTOP10 Country top 10% net wealth,int8,5,True
+2021,d,dntop10,DNTOP10 Country top 10% net wealth,int8,5,True
+2023,d,dntop10,"DNTOP10 Percentiles, net wealth, among households",int8,5,True
+2010,d,dntop10ea,DNTOP10EA EA top 10% net wealth,int64,5,True
+2014,d,dntop10ea,DNTOP10EA EA top 10% net wealth,int64,5,True
+2017,d,dntop10ea,DNTOP10EA EA top 10% net wealth,int64,5,True
+2021,d,dntop10ea,DNTOP10EA EA top 10% net wealth,int64,5,True
+2023,d,dntop10ea,"DNTOP10EA EA percentiles, net wealth, among households",int64,5,True
+2010,d,im0100,Implicate,int8,5,True
+2014,d,im0100,,int8,5,True
+2017,d,im0100,,int8,5,True
+2021,d,im0100,IM0100  Implicate,int8,5,True
+2023,d,im0100,IM0100  Implicate,int8,5,True
+2010,d,sa0010,Household number,int32,5,True
+2014,d,sa0010,,int32,5,True
+2017,d,sa0010,,int32,5,True
+2021,d,sa0010,SA0010  Household identification number,int32,5,True
+2023,d,sa0010,SA0010  Household identification number,int32,5,True
+2010,d,sa0100,Country,string,5,True
+2014,d,sa0100,,string,5,True
+2017,d,sa0100,,string,5,True
+2021,d,sa0100,SA0100  Country,string,5,True
+2023,d,sa0100,SA0100  Country,string,5,True
+2010,h,fhb0600,flag HB0600,int16,5,True
+2014,h,fhb0600,,int16,5,True
+2017,h,fhb0600,FHB0600  way of acquiring property,int16,5,True
+2021,h,fhb0600,Flag for HB0600  way of acquiring property,int16,5,True
+2023,h,fhb0600,Flag for HB0600  way of acquiring property,int16,5,True
+2010,h,fhh0100,flag HH0100,int16,5,True
+2014,h,fhh0100,,int16,5,True
+2017,h,fhh0100,FHH0100  any substantial gift or inheritance received,int16,5,True
+2021,h,fhh0100,Flag for HH0100  any substantial gift or inheritance received,int16,5,True
+2023,h,fhh0100,Flag for HH0100  any substantial gift or inheritance received,int16,5,True
+2010,h,fhh0110,flag HH0110,int16,5,True
+2014,h,fhh0110,,int16,5,True
+2017,h,fhh0110,FHH0110  no of gifts/inheritances received,int16,5,True
+2021,h,fhh0110,Flag for HH0110  no of gifts/inheritances received,int16,5,True
+2023,h,fhh0110,Flag for HH0110  no of gifts/inheritances received,int16,5,True
+2010,h,fhh0201,flag HH0201,int16,5,True
+2014,h,fhh0201,,int16,5,True
+2017,h,fhh0201,FHH0201  gift/inheritance #1: year gift/inheritance received,int16,5,True
+2021,h,fhh0201,Flag for HH0201  gift/inheritance #1: year gift/inheritance received,int16,5,True
+2023,h,fhh0201,Flag for HH0201  gift/inheritance #1: year gift/inheritance received,int16,5,True
+2010,h,fhh0202,flag HH0202,int16,5,True
+2014,h,fhh0202,,int16,5,True
+2017,h,fhh0202,FHH0202  gift/inheritance #2: year gift/inheritance received,int16,5,True
+2021,h,fhh0202,Flag for HH0202  gift/inheritance #2: year gift/inheritance received,int16,5,True
+2023,h,fhh0202,Flag for HH0202  gift/inheritance #2: year gift/inheritance received,int16,5,True
+2010,h,fhh0203,flag HH0203,int16,5,True
+2014,h,fhh0203,,int64,5,True
+2017,h,fhh0203,FHH0203  gift/inheritance #3: year gift/inheritance received,int16,5,True
+2021,h,fhh0203,Flag for HH0203  gift/inheritance #3: year gift/inheritance received,int16,5,True
+2023,h,fhh0203,Flag for HH0203  gift/inheritance #3: year gift/inheritance received,int16,5,True
+2010,h,fhh0401,flag HH0401,int16,5,True
+2014,h,fhh0401,,int16,5,True
+2017,h,fhh0401,FHH0401  gift/inheritance #1: value,int16,5,True
+2021,h,fhh0401,Flag for HH0401  gift/inheritance #1: value,int16,5,True
+2023,h,fhh0401,Flag for HH0401  gift/inheritance #1: value,int16,5,True
+2010,h,fhh0402,flag HH0402,int16,5,True
+2014,h,fhh0402,,int16,5,True
+2017,h,fhh0402,FHH0402  gift/inheritance #2: value,int16,5,True
+2021,h,fhh0402,Flag for HH0402  gift/inheritance #2: value,int16,5,True
+2023,h,fhh0402,Flag for HH0402  gift/inheritance #2: value,int16,5,True
+2010,h,fhh0403,flag HH0403,int16,5,True
+2014,h,fhh0403,,int64,5,True
+2017,h,fhh0403,FHH0403  gift/inheritance #3: value,int16,5,True
+2021,h,fhh0403,Flag for HH0403  gift/inheritance #3: value,int16,5,True
+2023,h,fhh0403,Flag for HH0403  gift/inheritance #3: value,int16,5,True
+2010,h,fhh0501,flag HH0501,int16,5,True
+2014,h,fhh0501,,int16,5,True
+2017,h,fhh0501,FHH0501  gift/inheritance #1: type of transfer (gift/inheritance),int16,5,True
+2021,h,fhh0501,Flag for HH0501  gift/inheritance #1: type of transfer (gift/inheritance),int16,5,True
+2023,h,fhh0501,Flag for HH0501  gift/inheritance #1: type of transfer (gift/inheritance),int16,5,True
+2010,h,fhh0502,flag HH0502,int16,5,True
+2014,h,fhh0502,,int16,5,True
+2017,h,fhh0502,FHH0502  gift/inheritance #2: type of transfer (gift/inheritance),int16,5,True
+2021,h,fhh0502,Flag for HH0502  gift/inheritance #2: type of transfer (gift/inheritance),int16,5,True
+2023,h,fhh0502,Flag for HH0502  gift/inheritance #2: type of transfer (gift/inheritance),int16,5,True
+2010,h,fhh0503,flag HH0503,int16,5,True
+2014,h,fhh0503,,int64,5,True
+2017,h,fhh0503,FHH0503  gift/inheritance #3: type of transfer (gift/inheritance),int16,5,True
+2021,h,fhh0503,Flag for HH0503  gift/inheritance #3: type of transfer (gift/inheritance),int16,5,True
+2023,h,fhh0503,Flag for HH0503  gift/inheritance #3: type of transfer (gift/inheritance),int16,5,True
+2010,h,hb0600,HB0600 way of acquiring property,int64,5,True
+2014,h,hb0600,,int64,5,True
+2017,h,hb0600,HB0600  way of acquiring property,int64,5,True
+2021,h,hb0600,HB0600  way of acquiring property,int64,5,True
+2023,h,hb0600,HB0600  way of acquiring property,int64,5,True
+2010,h,hh0100,HH0100 any substantial gift or inheritance received,int64,5,True
+2014,h,hh0100,,int64,5,True
+2017,h,hh0100,HH0100  any substantial gift or inheritance received,int64,5,True
+2021,h,hh0100,HH0100  any substantial gift or inheritance received,int64,5,True
+2023,h,hh0100,HH0100  any substantial gift or inheritance received,int64,5,True
+2010,h,hh0110,HH0110 no of gifts/inheritances received,int64,5,True
+2014,h,hh0110,,int64,5,True
+2017,h,hh0110,HH0110  no of gifts/inheritances received,int64,5,True
+2021,h,hh0110,HH0110  no of gifts/inheritances received,int64,5,True
+2023,h,hh0110,HH0110  no of gifts/inheritances received,int64,5,True
+2010,h,hh0201,HH0201 gift/inheritance #1: year gift/inheritance received,int64,5,True
+2014,h,hh0201,,int64,5,True
+2017,h,hh0201,HH0201  gift/inheritance #1: year gift/inheritance received,int64,5,True
+2021,h,hh0201,HH0201  gift/inheritance #1: year gift/inheritance received,int64,5,True
+2023,h,hh0201,HH0201  gift/inheritance #1: year gift/inheritance received,int64,5,True
+2010,h,hh0202,HH0202 gift/inheritance #2: year gift/inheritance received,int64,5,True
+2014,h,hh0202,,int64,5,True
+2017,h,hh0202,HH0202  gift/inheritance #2: year gift/inheritance received,int64,5,True
+2021,h,hh0202,HH0202  gift/inheritance #2: year gift/inheritance received,int64,5,True
+2023,h,hh0202,HH0202  gift/inheritance #2: year gift/inheritance received,int64,5,True
+2010,h,hh0203,HH0203 gift/inheritance #3: year gift/inheritance received,int64,5,True
+2014,h,hh0203,,int64,5,True
+2017,h,hh0203,HH0203  gift/inheritance #3: year gift/inheritance received,int64,5,True
+2021,h,hh0203,HH0203  gift/inheritance #3: year gift/inheritance received,int64,5,True
+2023,h,hh0203,HH0203  gift/inheritance #3: year gift/inheritance received,int64,5,True
+2010,h,hh0401,HH0401 gift/inheritance #1: value,double,5,True
+2014,h,hh0401,,double,5,True
+2017,h,hh0401,HH0401  gift/inheritance #1: value,double,5,True
+2021,h,hh0401,HH0401  gift/inheritance #1: value,double,5,True
+2023,h,hh0401,HH0401  gift/inheritance #1: value,double,5,True
+2010,h,hh0402,HH0402 gift/inheritance #2: value,double,5,True
+2014,h,hh0402,,double,5,True
+2017,h,hh0402,HH0402  gift/inheritance #2: value,double,5,True
+2021,h,hh0402,HH0402  gift/inheritance #2: value,double,5,True
+2023,h,hh0402,HH0402  gift/inheritance #2: value,double,5,True
+2010,h,hh0403,HH0403 gift/inheritance #3: value,double,5,True
+2014,h,hh0403,,double,5,True
+2017,h,hh0403,HH0403  gift/inheritance #3: value,double,5,True
+2021,h,hh0403,HH0403  gift/inheritance #3: value,double,5,True
+2023,h,hh0403,HH0403  gift/inheritance #3: value,double,5,True
+2010,h,hh0501,HH0501 gift/inheritance #1: type of transfer (gift/inheritance),int64,5,True
+2014,h,hh0501,,int64,5,True
+2017,h,hh0501,HH0501  gift/inheritance #1: type of transfer (gift/inheritance),int64,5,True
+2021,h,hh0501,HH0501  gift/inheritance #1: type of transfer (gift/inheritance),int64,5,True
+2023,h,hh0501,HH0501  gift/inheritance #1: type of transfer (gift/inheritance),int64,5,True
+2010,h,hh0502,HH0502 gift/inheritance #2: type of transfer (gift/inheritance),int64,5,True
+2014,h,hh0502,,int64,5,True
+2017,h,hh0502,HH0502  gift/inheritance #2: type of transfer (gift/inheritance),int64,5,True
+2021,h,hh0502,HH0502  gift/inheritance #2: type of transfer (gift/inheritance),int64,5,True
+2023,h,hh0502,HH0502  gift/inheritance #2: type of transfer (gift/inheritance),int64,5,True
+2010,h,hh0503,HH0503 gift/inheritance #3: type of transfer (gift/inheritance),int64,5,True
+2014,h,hh0503,,int64,5,True
+2017,h,hh0503,HH0503  gift/inheritance #3: type of transfer (gift/inheritance),int64,5,True
+2021,h,hh0503,HH0503  gift/inheritance #3: type of transfer (gift/inheritance),int64,5,True
+2023,h,hh0503,HH0503  gift/inheritance #3: type of transfer (gift/inheritance),int64,5,True
+2010,h,hi0100,HI0100 amount spent on food at home,double,5,True
+2014,h,hi0100,,double,5,True
+2017,h,hi0100,HI0100  amount spent on food at home,double,5,True
+2021,h,hi0100,HI0100  amount spent on food at home,double,5,True
+2023,h,hi0100,HI0100  amount spent on food at home,double,5,True
+2010,h,hi0200,HI0200 amount spent on food outside home,double,5,True
+2014,h,hi0200,,double,5,True
+2017,h,hi0200,HI0200  amount spent on food outside home,double,5,True
+2021,h,hi0200,HI0200  amount spent on food outside home,double,5,True
+2023,h,hi0200,HI0200  amount spent on food outside home,double,5,True
+2014,h,hi0210,,double,5,True
+2017,h,hi0210,HI0210  amount spent on utilities,double,5,True
+2021,h,hi0210,HI0210  amount spent on utilities,double,5,True
+2023,h,hi0210,HI0210  amount spent on utilities,double,5,True
+2014,h,hi0220,,double,5,True
+2017,h,hi0220,HI0220  amount spent on consumer goods and services,double,5,True
+2021,h,hi0220,HI0220  amount spent on consumer goods and services,double,5,True
+2023,h,hi0220,HI0220  amount spent on consumer goods and services - total,double,5,True
+2017,h,hi0230,HI0230  annual expenses on trips and holidays,double,5,False
+2021,h,hi0230,HI0230  annual expenses on trips and holidays,double,5,False
+2023,h,hi0230,HI0230  annual expenses on trips and holidays,double,5,False
+2023,h,hi0240,HI0240  amount spent on other consumer goods and services,double,5,False
+2010,h,hi0300,HI0300 Makes private transfers to individuals out of household/charities (y/n)?,int64,5,True
+2014,h,hi0300,,int64,5,True
+2017,h,hi0300,HI0300  makes alimony and charity payments,int8,5,True
+2021,h,hi0300,HI0300  makes alimony and charity payments,int8,5,True
+2023,h,hi0300,HI0300  makes other regular payments,int8,5,True
+2010,h,hi0310,HI0310 amount given as private transfers per month,double,5,True
+2014,h,hi0310,,double,5,True
+2017,h,hi0310,HI0310  amount given as alimony etc per month,double,5,True
+2021,h,hi0310,HI0310  amount given as alimony etc per month,double,5,True
+2023,h,hi0310,HI0310  amount given as alimony etc per month,double,5,True
+2010,h,hi0500,HI0500 comparison of last 12 months' expenses with average,int64,5,True
+2014,h,hi0500,,int64,5,True
+2017,h,hi0500,HI0500  comparison of last 12 months expenses with average,int64,5,True
+2021,h,hi0500,HI0500  comparison of last 12 months expenses with average,int64,5,True
+2023,h,hi0500,HI0500  comparison of last 12 months expenses with average,int64,5,True
+2010,h,hi0600,HI0600 last 12 month expenses were below/above income,int64,5,True
+2014,h,hi0600,,int64,5,True
+2017,h,hi0600,HI0600  last 12 month expenses were below/above income,int64,5,True
+2021,h,hi0600,HI0600  last 12 month expenses were below/above income,int64,5,True
+2023,h,hi0600,HI0600  last 12 month expenses were below/above income,int64,5,True
+2010,h,hi0800,HI0800 ability to get financial assistance from friends or relatives,int64,5,True
+2014,h,hi0800,,int64,5,True
+2017,h,hi0800,HI0800  ability to get financial assistance from friends or relatives,int64,5,True
+2021,h,hi0800,HI0800  ability to get financial assistance from friends or relatives,int64,5,True
+2023,h,hi0800,HI0800  ability to get financial assistance from friends or relatives,int64,5,True
+2010,h,hw0010,HW0010 household weight,double,5,True
+2014,h,hw0010,,double,5,True
+2017,h,hw0010,,double,5,True
+2021,h,hw0010,HW0010  household weight,double,5,True
+2023,h,hw0010,HW0010  household weight,double,5,True
+2021,h,hw0010a,HW0010a Household weight for historical comparison (Italy only),double,5,False
+2023,h,hw0010a,HW0010a Household weight for historical comparison (Italy only),double,5,False
+2010,h,im0100,Implicate,int8,5,True
+2014,h,im0100,,int8,5,True
+2017,h,im0100,,int8,5,True
+2021,h,im0100,IM0100  Implicate,int8,5,True
+2023,h,im0100,IM0100  Implicate,int8,5,True
+2010,h,sa0010,Household ID,int32,5,True
+2014,h,sa0010,,int32,5,True
+2017,h,sa0010,,int32,5,True
+2021,h,sa0010,SA0010  Household identification number,int32,5,True
+2023,h,sa0010,SA0010  Household identification number,int32,5,True
+2010,h,sa0100,Country,string,5,True
+2014,h,sa0100,,string,5,True
+2017,h,sa0100,,string,5,True
+2021,h,sa0100,SA0100  Country,string,5,True
+2023,h,sa0100,SA0100  Country,string,5,True
+2014,h,sa0110,,int64,5,True
+2017,h,sa0110,SA0110  past household ID,int64,5,True
+2021,h,sa0110,SA0110  past household ID,int64,5,True
+2023,h,sa0110,SA0110  past household ID,int64,5,True
+2010,h,sa0200,SA0200 survey vintage,int64,5,True
+2014,h,sa0200,,int64,5,True
+2017,h,sa0200,SA0200  survey vintage,int64,5,True
+2021,h,sa0200,SA0200  survey vintage,int64,5,True
+2023,h,sa0200,SA0200  survey vintage,int64,5,True
+2014,h,sa0210,,int64,5,True
+2017,h,sa0210,SA0210  vintage of last interview (household),int64,5,True
+2021,h,sa0210,SA0210  vintage of last interview (household),int64,5,True
+2023,h,sa0210,SA0210  vintage of last interview (household),int64,5,True
+2010,p,fra0300,flag RA0300,int16,5,True
+2014,p,fra0300,,int16,5,True
+2017,p,fra0300,FRA0300  age,int16,5,True
+2021,p,fra0300,Flag for RA0300  age,int16,5,True
+2023,p,fra0300,Flag for RA0300  age,int16,5,True
+2010,p,fra0300_b,flag RA0300_B,int16,5,True
+2014,p,fra0300_b,,int16,5,True
+2017,p,fra0300_b,,int16,5,True
+2021,p,fra0300_b,Flag for RA0300_B Age in brackets,int16,5,True
+2023,p,fra0300_b,Flag for RA0300_B Age in brackets,int16,5,True
+2010,p,im0100,Implicate,int8,5,True
+2014,p,im0100,,int8,5,True
+2017,p,im0100,,int8,5,True
+2021,p,im0100,IM0100  Implicate,int8,5,True
+2023,p,im0100,IM0100  Implicate,int8,5,True
+2010,p,ra0010,Personal ID,int8,5,True
+2014,p,ra0010,,int8,5,True
+2017,p,ra0010,,int8,5,True
+2021,p,ra0010,RA0010  personal ID,int8,5,True
+2023,p,ra0010,RA0010  personal ID,int8,5,True
+2010,p,ra0100,RA0100 relationship to reference person,int8,5,True
+2014,p,ra0100,,int8,5,True
+2017,p,ra0100,RA0100  relationship to reference person,int8,5,True
+2021,p,ra0100,RA0100  relationship to reference person,int64,5,True
+2023,p,ra0100,RA0100  relationship to reference person,int8,5,True
+2010,p,ra0300,RA0300 age,int64,5,True
+2014,p,ra0300,,int64,5,True
+2017,p,ra0300,RA0300  age,int64,5,True
+2021,p,ra0300,RA0300  age,int64,5,True
+2023,p,ra0300,RA0300  age,int64,5,True
+2010,p,ra0300_b,RA0300_B age - brackets,int8,5,True
+2014,p,ra0300_b,,int64,5,True
+2017,p,ra0300_b,,int64,5,True
+2021,p,ra0300_b,RA0300_B Age in brackets,int8,5,True
+2023,p,ra0300_b,RA0300_B Age in brackets,int8,5,True
+2010,p,sa0010,Household number,int32,5,True
+2014,p,sa0010,,int32,5,True
+2017,p,sa0010,,int32,5,True
+2021,p,sa0010,SA0010  Household identification number,int32,5,True
+2023,p,sa0010,SA0010  Household identification number,int32,5,True
+2010,p,sa0100,Country,string,5,True
+2014,p,sa0100,,string,5,True
+2017,p,sa0100,,string,5,True
+2021,p,sa0100,SA0100  Country,string,5,True
+2023,p,sa0100,SA0100  Country,string,5,True
