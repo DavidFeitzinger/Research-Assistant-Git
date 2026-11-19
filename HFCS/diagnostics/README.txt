@@ -1,12 +1,9 @@
-HFCS selected-raw diagnostic exports
-Inputs: sibling HFCS Data Download/HFCS_selected_raw/ (outside git).
-No source observations or variables have been changed.
-02: each country, wave, table, imputation and variable separately.
-03: descriptive mean/min/max of missing percentages across the five imputations.
-04: integer-coded HH/DH categorical distributions from imputation 1 only; distributions containing cells smaller than 5 are omitted. Codes are unlabeled.
-05: original Stata extended-missing codes from __stata_missing companions; counts may include small cells, review before sharing.
-06: distinct household-key coverage in H versus D.
-07: structural/data issues to review, not automatically repaired.
-09: suspicious decoded-text counts only, no text contents.
-Neither code values -1/-2 nor blank strings are automatically treated as missing.
-IMPORTANT: These reports contain restricted-data aggregates; REVIEW ALL SMALL CELLS before pushing to a public GitHub repository.
+HFCS diagnostic summaries (no household microdata).
+Full counts and missingness rates are kept locally in HFCS_selected_raw/diagnostics_private.
+The repo versions are coarse or omit low-frequency information.
+03 reports none/partial/all missingness, not the missing rate.
+Where available, 02-04 and 08 include labels from the Stata files.
+05 and 09 deliberately contain no detailed counts.
+Flags: 2017 code 2050 = anonymisation and 2051 = not collected.
+For 2021/2023, code 2050 only means set missing; reason is unspecified.
+Confirm any release against ECB disclosure requirements before publishing.
